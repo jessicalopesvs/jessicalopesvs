@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Java, SpringBoot**
 
-- 📫 How to reach me **jessica.lopesvs@gmail.com**
-
 - ⚡ Fun fact **Guitar Hero 3 is the best game ever made!**
 
 <h3 align="left">Connect with me:</h3>
