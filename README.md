@@ -8,6 +8,8 @@
 - 💬 Ask me about **Java, SpringBoot**
 
 - ⚡ Fun fact **Guitar Hero 3 is the best game ever made!**
+- 📄 Know about my experiences [Check my CV](https://github.com/jessicalopesvs/jessicalopesvs/blob/main/CV_Jessica-Lopes_2024.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
