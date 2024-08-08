@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jéssica Lopes</h1>
 <h3 align="center">An explorer of the software developer world</h3>
 
-- 🔭 I’m currently working on [ThoughStack](https://github.com/jessicalopesvs/VotingSystem)
+- 🔭 I’m currently working on [VotingSystem](https://github.com/jessicalopesvs/VotingSystem)
 
 - 🌱 I’m currently learning **Angular,Kotlin**
 
